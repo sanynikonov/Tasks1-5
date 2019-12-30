@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingApp", "MatrixApp\CheckingApp.csproj", "{50FF1E5A-BBC5-4435-9F02-518BD76BD5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolinomeLib", "PolinomeLib\PolinomeLib.csproj", "{06D19C69-01FB-4DC4-85C4-7337C9AAECB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLib", "MatrixLib\MatrixLib.csproj", "{07792C1A-8563-4F88-BFF6-232443F45607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FF1E5A-BBC5-4435-9F02-518BD76BD5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FF1E5A-BBC5-4435-9F02-518BD76BD5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FF1E5A-BBC5-4435-9F02-518BD76BD5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FF1E5A-BBC5-4435-9F02-518BD76BD5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D19C69-01FB-4DC4-85C4-7337C9AAECB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D19C69-01FB-4DC4-85C4-7337C9AAECB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D19C69-01FB-4DC4-85C4-7337C9AAECB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D19C69-01FB-4DC4-85C4-7337C9AAECB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07792C1A-8563-4F88-BFF6-232443F45607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07792C1A-8563-4F88-BFF6-232443F45607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07792C1A-8563-4F88-BFF6-232443F45607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07792C1A-8563-4F88-BFF6-232443F45607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {740E9A55-2BA8-42CE-83C0-DF736C9E93E0}
+	EndGlobalSection
+EndGlobal

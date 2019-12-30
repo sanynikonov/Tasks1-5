@@ -1,0 +1,1 @@
+select Position from WorkingPlaces where EmployeeName is null
